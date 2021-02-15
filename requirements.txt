@@ -1,0 +1,6 @@
+flask
+TA-Lib
+pandas
+yfinance
+psycopg2
+datetime
